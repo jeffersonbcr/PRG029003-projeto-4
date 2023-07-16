@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prglib.dir/main.cpp.o CMakeFiles/Prglib.dir/projeto2.cpp.o  -o Prglib 
